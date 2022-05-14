@@ -1,8 +1,9 @@
 ## Hi there 👋
 
- We are a team of three girls. Currently studying Data Science at the National Institute Of Statistics and Applied Economics.
-We are passionate about Statistics, Analytics, Machine Learning, Time Series Analysis, Computer Vision, NLP and Deep Learning. 
-Here, we aim to translate this passion into projects in this field.
+ We are a team of three girls. Currently studying Data Science at the National Institute Of Statistics and Applied Economics in Morocco.
+We are passionate about Statistics, Analytics, Machine Learning, Time Series Analysis, Computer Vision, NLP and Deep Learning and we aim to translate this passion into projects here :smile:
+
+'7ssasbiat', our team name, means in the Moroccan dialect 'Calculator girls', which refer to our passion for applied mathematics. It's also a nickname for all the students of our institut.
 
 Meet us : 
 
