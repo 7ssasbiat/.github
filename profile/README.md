@@ -5,7 +5,7 @@ We are passionate about Statistics, Analytics, Machine Learning, Time Series Ana
 
 '7ssasbiat', our team name, means in the Moroccan dialect 'Calculator girls', which refer to our passion for applied mathematics. It's also a nickname for all the students of our institut.
 
-Meet us : 
+Reach us : 
 
 <a href="https://www.linkedin.com/in/meryem-belkhayat-5a90561b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meryem belkhayat" height="30" width="40" /></a> Meryem Belkhayat
 
